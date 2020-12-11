@@ -25,6 +25,7 @@ import Foundation
  - DELETE:  DELETE http verb
  - POST:   POST http verb
  - PUT:    PUT http verb
+ - PATCH: PATCH http verb
  */
 public enum HttpMethod: String {
     case get = "GET"
